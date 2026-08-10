@@ -1,0 +1,23 @@
+﻿# 本地配置（含账号密码），禁止上传
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 运行产物 / 临时文件
+artifacts/
+*.png
+*.log
+
+# Node
+node_modules/
+package-lock.json
+package.json
